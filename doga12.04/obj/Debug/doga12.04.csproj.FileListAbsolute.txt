@@ -1,0 +1,7 @@
+C:\Users\2021120\Source\Repos\Bende4006\softtest\doga12.04\bin\Debug\doga12.04.exe.config
+C:\Users\2021120\Source\Repos\Bende4006\softtest\doga12.04\bin\Debug\doga12.04.exe
+C:\Users\2021120\Source\Repos\Bende4006\softtest\doga12.04\bin\Debug\doga12.04.pdb
+C:\Users\2021120\Source\Repos\Bende4006\softtest\doga12.04\obj\Debug\doga12.04.csproj.AssemblyReference.cache
+C:\Users\2021120\Source\Repos\Bende4006\softtest\doga12.04\obj\Debug\doga12.04.csproj.CoreCompileInputs.cache
+C:\Users\2021120\Source\Repos\Bende4006\softtest\doga12.04\obj\Debug\doga12.04.exe
+C:\Users\2021120\Source\Repos\Bende4006\softtest\doga12.04\obj\Debug\doga12.04.pdb
