@@ -1,0 +1,7 @@
+C:\Users\2021120\Source\Repos\Bende4006\softtest\11.27\bin\Debug\11.27.exe.config
+C:\Users\2021120\Source\Repos\Bende4006\softtest\11.27\bin\Debug\11.27.exe
+C:\Users\2021120\Source\Repos\Bende4006\softtest\11.27\bin\Debug\11.27.pdb
+C:\Users\2021120\Source\Repos\Bende4006\softtest\11.27\obj\Debug\11.27.csproj.AssemblyReference.cache
+C:\Users\2021120\Source\Repos\Bende4006\softtest\11.27\obj\Debug\11.27.csproj.CoreCompileInputs.cache
+C:\Users\2021120\Source\Repos\Bende4006\softtest\11.27\obj\Debug\11.27.exe
+C:\Users\2021120\Source\Repos\Bende4006\softtest\11.27\obj\Debug\11.27.pdb
